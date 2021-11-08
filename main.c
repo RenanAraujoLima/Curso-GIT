@@ -27,4 +27,8 @@ x2 = (-b-raiz)/(2*a);
 printf("o valor de X1 e: %d\n", x1);
 printf("o valor de X2 e: %d", x2);
 
+<<<<<<< HEAD
 // www.google.com.br
+=======
+//teste para o GIT
+>>>>>>> e8c8382111dea7dee62676737a44f66517102163
