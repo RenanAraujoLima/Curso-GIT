@@ -30,4 +30,5 @@ printf("o valor de X2 e: %d", x2);
 
 //teste para o GIT
 
+//código para calculo de equação de segundo grau em andamento
 }
